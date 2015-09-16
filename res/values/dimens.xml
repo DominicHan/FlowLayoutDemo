@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="flow_layout_padding">15dp</dimen>
+    <dimen name="horizontal_text_padding">12dp</dimen>
+    <dimen name="vertical_text_padding">6dp</dimen>
+    <dimen name="hot_text_radius">6dp</dimen>
+
+</resources>
